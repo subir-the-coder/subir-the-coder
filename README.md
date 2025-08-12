@@ -11,7 +11,7 @@
 - **Security:** TryHackMe, Basic Pentesting, OWASP
 - **DevOps:** Git/GitHub, Linux Basics
 - **Languages:** Python, JavaScript, HTML/CSS
-- **Tools:** Burp Suite, Nmap, GitHub Desktop
+- **Tools:** Burp Suite, Nmap, GitHub Desktop, Nuclei, htpx, Parrot
 
 ## 📚 Current Goals
 - ✅ Complete AWS SAA-C03 Certification
