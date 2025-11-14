@@ -24,7 +24,6 @@ I enjoy reading logs like stories, solving errors like puzzles, and learning tec
 - AWS (IAM, EC2, S3, VPC, CloudWatch)  
 - Basic Cloud Security  
 - Architecture fundamentals
-- Parrot OS
 
 ## 🔐 Cybersecurity  
 - TryHackMe (Offensive + Defensive)  
