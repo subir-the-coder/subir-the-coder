@@ -1,8 +1,8 @@
 
 <div align="center">
 
-# 👾 **Welcome - I'm Subir**  
-### *Sr Tech Engineer | Cybersecurity | Upcoming DevOps | Infra Monitoring | SQL | Java | Javascript | API Tester | Automator*
+# 👾 **Welcome to my Cyber World- I'm Subir**  
+### *Sr Tech Engineer | Cybersecurity | Upcoming DevOps | Infra Monitoring | Python | SQL | Java | Javascript | API Tester | Automator*
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Creepster&size=36&duration=3000&color=FF0000&center=true&vCenter=true&width=900&lines=Exploring+Cloud+%26+Cyber+World...;API+Testing....+%26+Fixing+Things+Ethically...;Learning+Every+Single+Day...;Building+Automation+%26+Monitoring+Tools...;Mastering+Python+%26+Java+%26+SQL...;Preparing+for+Security+Certifications..." />
 
@@ -22,7 +22,7 @@ I enjoy reading logs like stories, solving errors like puzzles, and learning tec
 
 ## ☁️ Cloud  
 - AWS (IAM, EC2, S3, VPC, CloudWatch)  
-- Basic Cloud Security  
+- Cloud Security  
 - Architecture fundamentals
 
 ## 🔐 Cybersecurity  
